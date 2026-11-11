@@ -2,10 +2,12 @@
 
 A local Python application that extracts Hindi text from clear textbook images and converts corrected Unicode Hindi into the legacy Shusha font encoding.
 
-The complete workflow runs on the user's computer. It does not require an OCR API, cloud account, or per-page payment.
+The complete workflow runs on the user's computer.
 
 ## Demo
+<img width="1205" height="658" alt="Screenshot 2026-11-12 011126" src="https://github.com/user-attachments/assets/7e31658b-bac1-4ea8-be45-18e0fae9cc5c" />
 
+<img width="507" height="386" alt="Screenshot 2026-11-12 011142" src="https://github.com/user-attachments/assets/2df6c2d0-a692-45b6-916c-b5161a886c61" />
 
 
 ## Features
