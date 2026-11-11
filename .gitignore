@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+tessdata/
+extracted_hindi.txt
+.pytest_cache/
+.coverage
